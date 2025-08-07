@@ -57,6 +57,10 @@ streamlit run app.py
 
 
 ## Screenshots
+<img width="1992" height="1060" alt="Screenshot 2025-08-05 012215" src="https://github.com/user-attachments/assets/587b091f-c355-4ff3-9b06-1e11ab0f40b7" />
+<img width="1990" height="1062" alt="Screenshot 2025-08-05 012242" src="https://github.com/user-attachments/assets/7d2c1cf4-5b1a-4b9b-899a-65cd5a60a853" />
+
+
 
 ## Acknowledgements
 - Inspired by real-world e-commerce customer analytics
