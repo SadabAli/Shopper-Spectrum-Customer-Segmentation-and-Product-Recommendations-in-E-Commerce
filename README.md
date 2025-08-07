@@ -34,8 +34,8 @@ This project analyzes customer purchasing behavior using **RFM (Recency, Frequen
 
 ### 1️ Clone the repo
 ```bash
-git clone https://github.com/your-username/shopper-spectrum.git
-cd shopper-spectrum
+https://github.com/SadabAli/Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce.git
+cd Shopper-Spectrum-Customer-Segmentation-and-Product-Recommendations-in-E-Commerce
 ```
 ### Install dependencies
 ```
